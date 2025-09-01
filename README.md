@@ -16,7 +16,7 @@ Proyek ini dibuat sebagai studi kasus pembelajaran dasar pemrograman dengan **PH
 
 ## 📂 Struktur Project
 project/
-- │── index.php # Halaman utama / eksekusi struk
+- │── kasir_toko_buku.php # Halaman utama / eksekusi struk
 - │── README.md # Dokumentasi project
 
 ## 🚀 Cara Menjalankan
