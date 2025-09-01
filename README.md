@@ -34,13 +34,13 @@ http://localhost:8000
 
 
 📋 Contoh Output
-===== STRUK PEMBELIAN =====
-Nama Pelanggan : Budi Santoso
-Judul Buku     : Dasar-Dasar Pemrograman Web
-Jumlah Buku    : 2
-Harga Satuan   : Rp 85.000
-Total Awal     : Rp 170.000
-Member         : Ya
-Diskon         : Rp 17.000
-Total Bayar    : Rp 153.000
-===========================
+- ===== STRUK PEMBELIAN =====
+- Nama Pelanggan : Budi Santoso
+- Judul Buku     : Dasar-Dasar Pemrograman Web
+- Jumlah Buku    : 2
+- Harga Satuan   : Rp 85.000
+- Total Awal     : Rp 170.000
+- Member         : Ya
+- Diskon         : Rp 17.000
+- Total Bayar    : Rp 153.000
+- ===========================
